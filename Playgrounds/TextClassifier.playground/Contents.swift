@@ -38,10 +38,8 @@ let additional: [String: String]? = <#Any additional metadata for this model (op
 import Foundation
 import CreateML
 
-guard let inputUrl = URL(string: dataTablePath) else { fatalError("\(dataTablePath) is not a valid URL.") }
-guard let outputUrl = URL(string: modelPath) else { fatalError("\(modelPath) is not a valid URL.") }
-
-let data = try MLDataTable(contentsOf: inputUrl)
+// Import data from `dataTablePath`
+let data = try MLDataTable(contentsOf: URL(fileURLWithPath: dataTablePath))
 
 // Create training/testing data
 let (trainingData, testingData) = data.randomSplit(by: trainingPercentage, seed: seed)
@@ -51,9 +49,8 @@ let textClassifier = try MLTextClassifier(trainingData: trainingData, textColumn
 
 // Output trained model
 let metadata = MLModelMetadata(author: author, shortDescription: shortDescription, license: license, version: version, additional: additional)
-try textClassifier.write(to: outputUrl, metadata: metadata)
+try textClassifier.write(to: URL(fileURLWithPath: modelPath), metadata: metadata)
 
 // Performance metrics
-
 print("Training accuracy: \(textClassifier.trainingAccuracy())%")
 print("Validation accuracy: \(textClassifier.validationAccuracy())%")
