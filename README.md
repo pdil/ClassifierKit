@@ -13,7 +13,7 @@ The following models are available as example Playgrounds:
 | Model | Associated Type | Playground |
 | --- | --- | :---:|
 | 🌅 Image Classifier | [`MLImageClassifier`](https://developer.apple.com/documentation/create_ml/mlimageclassifier) | [🔗]() |
-| 🌅 Image Classifier (GUI) | [`MLImageClassifierBuilder`](https://developer.apple.com/documentation/create_ml/mlimageclassifierbuilder) | [🔗]() |
+| 🌅 Image Classifier (GUI) | [`MLImageClassifierBuilder`](https://developer.apple.com/documentation/create_ml/mlimageclassifierbuilder) | [🔗](https://github.com/pdil/ClassifierKit/tree/master/Playgrounds/ImageClassifierGUI.playground) |
 | 📄 Text Classifier | [`MLTextClassifier`](https://developer.apple.com/documentation/create_ml/mltextclassifier) | [🔗]() |
 | 🏷️ Word Tagger | [`MLWordTagger`](https://developer.apple.com/documentation/create_ml/mlwordtagger) | [🔗]() |
 | 📊 Decision Tree Classifier | [`MLDecisionTreeClassifier`](https://developer.apple.com/documentation/create_ml/mldecisiontreeclassifier) | [🔗]() |
