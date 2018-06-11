@@ -29,3 +29,17 @@ The following models are available as example Playgrounds:
 | 📈 Random Forest Regressor | [`MLRandomForestRegressor`](https://developer.apple.com/documentation/create_ml/mlrandomforestregressor) |  |
 
 **Note:** Some of these are incomplete and are currently being added. The goal is to eventually have comprehensive example playgrounds for each model type in Create ML, including sample data and explanations.
+
+## 📝 Usage
+
+The easiest way to begin using ClassifierKit is to clone it directly onto your computer.
+
+1. Navigate to the desired directory on your local filesystem.
+```
+$ cd Desktop/or/any/other/folder
+```
+2. Clone this repository:
+```
+$ git clone https://github.com/pdil/ClassifierKit.git
+``` 
+3. Begin! The `Playgrounds` folder contains Swift Playgrounds for the many models contained within Create ML that will allow you to set parameters and begin training the models, either with the provided sample data or your own data.
