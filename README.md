@@ -12,19 +12,19 @@ The following models are available as example Playgrounds:
 
 | Model | Associated Type | Playground |
 | --- | --- | :---:|
-| 🌅 Image Classifier | [`MLImageClassifier`](https://developer.apple.com/documentation/create_ml/mlimageclassifier) | [🔗]() |
+| 🌅 Image Classifier | [`MLImageClassifier`](https://developer.apple.com/documentation/create_ml/mlimageclassifier) |  |
 | 🌅 Image Classifier (GUI) | [`MLImageClassifierBuilder`](https://developer.apple.com/documentation/create_ml/mlimageclassifierbuilder) | [🔗](https://github.com/pdil/ClassifierKit/tree/master/Playgrounds/ImageClassifierGUI.playground) |
-| 📄 Text Classifier | [`MLTextClassifier`](https://developer.apple.com/documentation/create_ml/mltextclassifier) | [🔗]() |
-| 🏷️ Word Tagger | [`MLWordTagger`](https://developer.apple.com/documentation/create_ml/mlwordtagger) | [🔗]() |
-| 📊 Decision Tree Classifier | [`MLDecisionTreeClassifier`](https://developer.apple.com/documentation/create_ml/mldecisiontreeclassifier) | [🔗]() |
-| 📊 Random Forest Classifier | [`MLRandomForestClassifier`](https://developer.apple.com/documentation/create_ml/mlrandomforestclassifier) | [🔗]() |
-| 📊 Boosted Tree Classifier | [`MLBoostedTreeClassifier`](https://developer.apple.com/documentation/create_ml/mlboostedtreeclassifier) | [🔗]() |
-| 📊 Logistic Regression Classifier | [`MLLogisticRegressionClassifier`](https://developer.apple.com/documentation/create_ml/mllogisticregressionclassifier) | [🔗]() |
-| 📊 Support Vector Classifier | [`MLSupportVectorClassifier`](https://developer.apple.com/documentation/create_ml/mlsupportvectorclassifier) | [🔗]()|
-| 📈 Linear Regressor | [`MLLinearRegressor`](https://developer.apple.com/documentation/create_ml/mllinearregressor) | [🔗]() |
-| 📈 Decision Tree Regressor | [`MLDecisionTreeRegressor`](https://developer.apple.com/documentation/create_ml/mldecisiontreeregressor) | [🔗]() |
-| 📈 Boosted Tree Regressor | [`MLBoostedTreeRegressor`](https://developer.apple.com/documentation/create_ml/mlboostedtreeregressor) | [🔗]() |
-| 📈 Random Forest Regressor | [`MLRandomForestRegressor`](https://developer.apple.com/documentation/create_ml/mlrandomforestregressor) | [🔗]() |
+| 📄 Text Classifier | [`MLTextClassifier`](https://developer.apple.com/documentation/create_ml/mltextclassifier) | [🔗](https://github.com/pdil/ClassifierKit/tree/master/Playgrounds/TextClassifier.playground) |
+| 🏷️ Word Tagger | [`MLWordTagger`](https://developer.apple.com/documentation/create_ml/mlwordtagger) | [🔗](https://github.com/pdil/ClassifierKit/tree/master/Playgrounds/WordTagger.playground) |
+| 📊 Decision Tree Classifier | [`MLDecisionTreeClassifier`](https://developer.apple.com/documentation/create_ml/mldecisiontreeclassifier) | [🔗](https://github.com/pdil/ClassifierKit/tree/master/Playgrounds/DecisionTreeClassifier.playground) |
+| 📊 Random Forest Classifier | [`MLRandomForestClassifier`](https://developer.apple.com/documentation/create_ml/mlrandomforestclassifier) |  |
+| 📊 Boosted Tree Classifier | [`MLBoostedTreeClassifier`](https://developer.apple.com/documentation/create_ml/mlboostedtreeclassifier) |  |
+| 📊 Logistic Regression Classifier | [`MLLogisticRegressionClassifier`](https://developer.apple.com/documentation/create_ml/mllogisticregressionclassifier) |  |
+| 📊 Support Vector Classifier | [`MLSupportVectorClassifier`](https://developer.apple.com/documentation/create_ml/mlsupportvectorclassifier) |  |
+| 📈 Linear Regressor | [`MLLinearRegressor`](https://developer.apple.com/documentation/create_ml/mllinearregressor) |  |
+| 📈 Decision Tree Regressor | [`MLDecisionTreeRegressor`](https://developer.apple.com/documentation/create_ml/mldecisiontreeregressor) |  |
+| 📈 Boosted Tree Regressor | [`MLBoostedTreeRegressor`](https://developer.apple.com/documentation/create_ml/mlboostedtreeregressor) |  |
+| 📈 Random Forest Regressor | [`MLRandomForestRegressor`](https://developer.apple.com/documentation/create_ml/mlrandomforestregressor) |  |
 
 
 
