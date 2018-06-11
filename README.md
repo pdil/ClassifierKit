@@ -10,7 +10,7 @@
 ## Models
 The following models are available as example Playgrounds:
 
-| Type | Associated Class | Playground | Documentation |
+| Model | Associated Type | Playground | Documentation |
 | --- | --- | :---:| :---: |
 | 🌅 Image Classifier | `MLImageClassifier` | [link]() | [link](https://developer.apple.com/documentation/create_ml/mlimageclassifier) |
 | 🌅 Image Classifier (GUI) | `MLImageClassifierBuilder` | [link]() | [link](https://developer.apple.com/documentation/create_ml/mlimageclassifierbuilder) |
