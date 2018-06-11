@@ -42,4 +42,4 @@ $ cd Desktop/or/any/other/folder
 ```
 $ git clone https://github.com/pdil/ClassifierKit.git
 ``` 
-3. Begin! The `Playgrounds` folder contains Swift Playgrounds for the many models contained within Create ML that will allow you to set parameters and begin training the models, either with the provided sample data or your own data.
+3. Begin! The [`Playgrounds`](https://github.com/pdil/ClassifierKit/tree/master/Playgrounds) folder contains Swift Playgrounds for the many models contained within Create ML that will allow you to set parameters and begin training the models, either with the provided sample data or your own data.
