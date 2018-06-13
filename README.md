@@ -4,6 +4,7 @@
 ## 📄 Requirements
 * macOS 10.14 (Mojave) or later ([download](https://developer.apple.com/download/))
 * Xcode 10 or later ([download](https://developer.apple.com/download/))
+* Swift 4.2 or later
 
 Both of these are currently in beta and require an [Apple Developer account](https://developer.apple.com/programs/) to download.
 
