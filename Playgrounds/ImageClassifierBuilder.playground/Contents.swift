@@ -20,7 +20,7 @@
 
  ## Testing the model
 
- Drag the "Testing Data" folder from the Resources folder to the Live View once again to test the model.
+ Drag the "Testing Data" folder from the Resources folder to the Live View once again ("Drop Images to Begin Testing")  to test the model.
 
  ## Saving the trained model
 
