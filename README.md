@@ -48,3 +48,6 @@ $ git clone https://github.com/pdil/ClassifierKit.git
 ## 🗃️ References
 * [Introducing Create ML · WWDC 2018 · Session 703](https://developer.apple.com/videos/play/wwdc2018/703/)
 * [Create ML · Apple Developer Documentation](https://developer.apple.com/documentation/create_ml)
+
+### Datasets
+* [Mushroom Data Set · UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Mushroom)
