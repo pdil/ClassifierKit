@@ -38,7 +38,7 @@
  */
 
 /// File path containing data (JSON or CSV).
-let dataFileName: String = "DecisionTreeData"
+let dataFileName: String = "Mushrooms"
 
 /// Column within data table to train model on.
 let targetColumn: String = "class"
@@ -72,4 +72,4 @@ let metadata = MLModelMetadata(
   version: "1.0",
   additional: nil
 )
-try decisionTreeClassifier.write(toFile: mlmodelFileName)
+try decisionTreeClassifier.write(toFile: mlmodelFileName, metadata: metadata)
