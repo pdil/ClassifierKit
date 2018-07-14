@@ -67,7 +67,7 @@ let randomForestClassifier = try MLRandomForestClassifier(trainingData: training
 // Export Core ML file
 let metadata = MLModelMetadata(
   author: "ClassifierKit",
-  shortDescription: "A decision tree classification model for identifing whether or not a mushroom with the given attributes is edible or poisonous.",
+  shortDescription: "A random forest classification model for identifing whether or not a mushroom with the given attributes is edible or poisonous.",
   license: "MIT",
   version: "1.0",
   additional: nil
