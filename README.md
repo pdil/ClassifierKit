@@ -20,7 +20,7 @@ The following models are available as example Playgrounds:
 | 📄 Text Classifier | [`MLTextClassifier`](https://developer.apple.com/documentation/create_ml/mltextclassifier) | [🔗](https://github.com/pdil/ClassifierKit/tree/master/Playgrounds/TextClassifier.playground) |
 | 🏷️ Word Tagger | [`MLWordTagger`](https://developer.apple.com/documentation/create_ml/mlwordtagger) | [🔗](https://github.com/pdil/ClassifierKit/tree/master/Playgrounds/WordTagger.playground) |
 | 📊 Decision Tree Classifier | [`MLDecisionTreeClassifier`](https://developer.apple.com/documentation/create_ml/mldecisiontreeclassifier) | [🔗](https://github.com/pdil/ClassifierKit/tree/master/Playgrounds/DecisionTreeClassifier.playground) |
-| 📊 Random Forest Classifier | [`MLRandomForestClassifier`](https://developer.apple.com/documentation/create_ml/mlrandomforestclassifier) |  |
+| 📊 Random Forest Classifier | [`MLRandomForestClassifier`](https://developer.apple.com/documentation/create_ml/mlrandomforestclassifier) | [🔗](https://github.com/pdil/ClassifierKit/tree/master/Playgrounds/RandomForestClassifier.playground) |
 | 📊 Boosted Tree Classifier | [`MLBoostedTreeClassifier`](https://developer.apple.com/documentation/create_ml/mlboostedtreeclassifier) |  |
 | 📊 Logistic Regression Classifier | [`MLLogisticRegressionClassifier`](https://developer.apple.com/documentation/create_ml/mllogisticregressionclassifier) |  |
 | 📊 Support Vector Classifier | [`MLSupportVectorClassifier`](https://developer.apple.com/documentation/create_ml/mlsupportvectorclassifier) |  |
