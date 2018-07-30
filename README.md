@@ -29,7 +29,7 @@ The following models are available as example Playgrounds:
 | 📈 Boosted Tree Regressor | [`MLBoostedTreeRegressor`](https://developer.apple.com/documentation/create_ml/mlboostedtreeregressor) |  |
 | 📈 Random Forest Regressor | [`MLRandomForestRegressor`](https://developer.apple.com/documentation/create_ml/mlrandomforestregressor) |  |
 
-**Note:** Some of these are incomplete and are currently being added. The goal is to eventually have comprehensive example playgrounds for each model type in Create ML, including sample data and explanations.
+**Note:** Some of these are incomplete and are currently being added. The goal is to eventually have comprehensive example playgrounds for each model type in Create ML, including sample data and explanations. See [Project #1](https://github.com/pdil/ClassifierKit/projects/1) to track the progress of these playgrounds.
 
 ## 📝 Usage
 
