@@ -2,11 +2,9 @@
 🤖 A suite of tools and examples for training Core ML models with Create ML.
 
 ## 📄 Requirements
-* macOS 10.14 (Mojave) or later ([download](https://developer.apple.com/download/)) †
-* Xcode 10 or later ([download](https://developer.apple.com/download/)) †
+* macOS 10.14 (Mojave) or later ([download](https://developer.apple.com/download/))
+* Xcode 10 or later ([download](https://developer.apple.com/download/))
 * Swift 4.2 or later
-
-† This software is currently in beta and require an [Apple Developer account](https://developer.apple.com/programs/) to download.
 
 **Important Note:** [`Create ML`](https://developer.apple.com/documentation/create_ml) is not available for the iOS SDK. It can only be used on macOS to train models and is not intended for on-device training. Instead, it is used to train models with data (which may take minutes to hours depending on computing power, size of dataset, and model). When the model is trained, a `.mlmodel` file can be exported and implemented in iOS/tvOS/watchOS/macOS apps using [`Core ML`](https://developer.apple.com/documentation/coreml).
 
